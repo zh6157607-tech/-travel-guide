@@ -1,0 +1,46 @@
+
+body {
+    background-color: lightgray;
+    color: black;
+    direction: rtl;
+    text-align: center;
+}
+
+h1 {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+a:hover {
+    color: red;
+}
+
+hr {
+    width: 90%;
+    margin: 20px auto;
+}
+
+form {
+    background-color: white;
+    width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: right;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
