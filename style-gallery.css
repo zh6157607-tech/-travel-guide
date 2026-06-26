@@ -3,6 +3,11 @@ body {
     color: black;
     direction: rtl;
     text-align: center;
+    
+    font-family: Tahoma, Arial, sans-serif; /* يغير الخط لشكل عصري ومقروء */
+    /* خلي باقي أكوادك القديمة زي ما هي هنا */
+
+
 }
 h1 {
     background-color: darkblue;
