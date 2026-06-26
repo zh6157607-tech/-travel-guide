@@ -38,3 +38,15 @@ img {
     border: 2px solid black;
     margin: 20px auto;
 }
+p {
+    background-color: white;
+    color: #333; /* لون رمادي داكن مريح للعين */
+    max-width: 600px;
+    margin: 20px auto; /* لتوسيط النص في منتصف الصفحة */
+    padding: 20px;
+    border-radius: 8px; /* حواف دائرية خفيفة */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* ظل خفيف جداً يعطي عمقاً للمظهر */
+    line-height: 1.6; /* زيادة المساحة بين السطور لتسهيل القراءة */
+    font-size: 18px;
+}
+
