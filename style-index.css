@@ -49,4 +49,13 @@ p {
     line-height: 1.6; /* زيادة المساحة بين السطور لتسهيل القراءة */
     font-size: 18px;
 }
+img {
+    max-width: 100%;
+    width: 450px; /* تحديد عرض مناسب للصورة الرئيسية */
+    height: auto;
+    border: 3px solid darkblue; /* إطار أزرق متناسق مع لون الهيدر */
+    border-radius: 12px; /* حواف دائرية للصورة */
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* ظل يبرز الصورة عن الخلفية */
+}
 
