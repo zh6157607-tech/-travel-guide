@@ -31,3 +31,11 @@ img {
     border: 2px solid black;
     margin: 20px auto;
 }
+img {
+    width: 80%; /* يخلي الصورة تاخذ 80% من الشاشة عشان ما تطلعش كبيرة واجد */
+    max-width: 300px; /* أقصى عرض للصورة */
+    margin: 15px; /* يدير مسافة بين الصور عشان ما يلصقوش في بعض */
+    border-radius: 10px; /* يخلي زوايا الصورة دائرية وناعمة */
+    border: 2px solid darkblue; /* إطار أزرق خفيف حول الصورة */
+}
+
